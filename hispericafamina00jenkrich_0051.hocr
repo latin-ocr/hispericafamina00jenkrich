@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hispericafamina00jenkrich_0051.png"; bbox 0 0 1819 3141; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 522 389 2507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 522 389 2507">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 522 389 2507; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 350 2338 389 2507; x_wconf 85' lang='lat' dir='ltr'>HISP.</span> <span class='ocrx_word' id='word_1_2' title='bbox 347 2024 387 2304; x_wconf 86' lang='lat' dir='ltr'><strong>FAMINA.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 340 619 379 755; x_wconf 87' lang='lat' dir='ltr'><strong>Plate</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 340 522 378 586; x_wconf 91' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 554 4 565 536">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 554 4 565 536">
+     <span class='ocr_line' id='line_1_2' title="bbox 554 4 565 536; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 554 4 565 536; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 488 340 1472 3140">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 488 340 1472 3140">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 340 1472 3140; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 488 340 1472 3140; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1555 1181 1596 1870">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1555 1181 1596 1870">
+     <span class='ocr_line' id='line_1_4' title="bbox 1555 1181 1596 1870; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1556 1762 1589 1870; x_wconf 81' lang='lat' dir='ltr'>Paris</span> <span class='ocrx_word' id='word_1_8' title='bbox 1556 1653 1589 1736; x_wconf 89' lang='lat' dir='ltr'><strong>MS.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1555 1522 1589 1625; x_wconf 85' lang='lat' dir='ltr'><strong>latin.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1565 1376 1596 1490; x_wconf 84' lang='lat'>11411‚</span> <span class='ocrx_word' id='word_1_11' title='bbox 1555 1302 1587 1350; x_wconf 81' lang='lat' dir='ltr'><strong>fo.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1561 1181 1586 1273; x_wconf 75' lang='lat'>1002.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
